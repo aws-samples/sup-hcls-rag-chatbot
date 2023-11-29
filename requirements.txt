@@ -1,0 +1,14 @@
+boto3
+chromadb==0.3.29
+docx2txt
+faiss-cpu
+langchain
+Pillow
+pydantic==1.10.9
+pypdf
+pysqlite3
+pysqlite3-binary   
+streamlit
+transformers
+unstructured
+urllib3==1.26.6
